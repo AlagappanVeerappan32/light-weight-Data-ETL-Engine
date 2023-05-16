@@ -1,0 +1,12 @@
+dal/assignment2/dataprocessing/FileHandling.class
+dal/assignment2/trasformationengine/Connection.class
+dal/assignment2/dataprocessing/FileOperations.class
+dal/assignment2/trasformationengine/ConnectToDataBase.class
+dal/assignment2/dataprocessing/Processing.class
+dal/assignment2/Constants.class
+dal/assignment2/dataprocessing/ProcessingData.class
+dal/assignment2/extraction/Extract.class
+dal/assignment2/extraction/ExtractionEngine.class
+dal/assignment2/Runner.class
+dal/assignment2/trasformationengine/ReadFiles.class
+dal/assignment2/Main.class
